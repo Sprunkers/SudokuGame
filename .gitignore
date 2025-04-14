@@ -1,0 +1,18 @@
+# --- Build Artifacts ---
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.exe
+*.obj
+*.pdb
+*.lib
+*.dll
+
+# --- VS Code Settings ---
+.vscode/
+
+# --- OS/Editor Trash ---
+.DS_Store
+Thumbs.db
